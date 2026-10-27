@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🧑‍💻 full-stack dev w/ >3yrs of experience
-- 🏭 currently working @ [theviewpro.com](https://theviewpro.com)
+- 🧑‍💻 full-stack dev with 4+ years of experience
+- 🏭 currently working at [theviewpro.com](https://theviewpro.com) / [seenic.io](https://seenic.io)
